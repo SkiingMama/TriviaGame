@@ -1,0 +1,58 @@
+body {
+	background-image: url("../images/Phuket.JPG");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#timer {
+	background-color: black;
+	color: white;
+	margin-bottom: 15px;
+  	font-size: 40px;
+    text-align: center
+}
+
+.grid {
+	width: 600px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: black;
+	padding: 10px 50px 50px 50px;
+	border-radius: 50px;
+	border: 2px solid #fff;
+}
+
+.grid #question {
+	font-size: 30px;
+	color: #fff;
+}
+
+.buttons {
+	margin-top: 30px;
+}
+
+#btn0, #btn1, #btn2, #btn3 {
+	background-color: grey;
+	width: 250px;
+	font-size: 20px;
+	color: #fff;
+	border-radius: 50px;
+	margin: 10px 40px 10px 0px;
+	padding: 10px 10px;
+}
+
+.grid h1 {
+	background-color: black;
+	color: white;
+	margin-bottom: 15px;
+  	font-size: 80px;
+    text-align: center;
+
+    border-radius: 50px;
+}
+
+#progress {
+	color: #fff;
+	font-size: 18px;
+}
+
